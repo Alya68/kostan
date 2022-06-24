@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+*.sqlite
+*.sqlite-journal
+=======
+*.sqlite*
+>>>>>>> 98021bc (halaman semua kos)

@@ -1,0 +1,19 @@
+php:
+  preset: laravel
+<<<<<<< HEAD
+  disabled:
+    - unused_use
+=======
+  version: 8
+  disabled:
+    - no_unused_imports
+>>>>>>> 98021bc (halaman semua kos)
+  finder:
+    not-name:
+      - index.php
+      - server.php
+js:
+  finder:
+    not-name:
+      - webpack.mix.js
+css: true
