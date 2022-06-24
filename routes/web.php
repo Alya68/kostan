@@ -1,13 +1,6 @@
 <?php
 
 use App\Http\Controllers\Controller;
-use App\Http\Controllers\DetailFasilitasController;
-use App\Http\Controllers\FasilitasController;
-use App\Http\Controllers\FotoKostController;
-use App\Http\Controllers\KostanController;
-use App\Http\Controllers\MediaPembayaranController;
-use App\Http\Controllers\TypeKamarController;
-use App\Models\Kostan;
 use Illuminate\Support\Facades\Route;
 
 /*
